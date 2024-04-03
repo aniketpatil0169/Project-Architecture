@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\bin\Debug\Models.dll
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\bin\Debug\Models.pdb
+C:\Users\Dell\source\repos\Coding Standred\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
