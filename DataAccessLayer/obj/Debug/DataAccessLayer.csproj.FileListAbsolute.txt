@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\Coding Standred\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dell\source\repos\Coding Standred\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dell\source\repos\Coding Standred\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Coding Standred\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Coding Standred\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dell\source\repos\Coding Standred\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Dell\source\repos\Coding Standred\DataAccessLayer\bin\Debug\Models.dll
+C:\Users\Dell\source\repos\Coding Standred\DataAccessLayer\bin\Debug\Models.pdb
+C:\Users\Dell\source\repos\Coding Standred\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
